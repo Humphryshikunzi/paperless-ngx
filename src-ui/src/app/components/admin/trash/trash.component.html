@@ -2,8 +2,7 @@
     title="Trash"
     i18n-title
     info="Manage trashed documents that are pending deletion."
-    i18n-info
-    infoLink="usage/#document-trash">
+    i18n-info>
     <button class="btn btn-sm btn-outline-secondary" (click)="clearSelection()" [hidden]="selectedDocuments.size === 0">
         <i-bs name="x"></i-bs>&nbsp;<ng-container i18n>Clear selection</ng-container>
     </button>
