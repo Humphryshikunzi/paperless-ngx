@@ -538,7 +538,7 @@
         <target state="translated">ツアーでは説明できなかった機能や情報はまだまだ &lt;em&gt; たくさん &lt;/em&gt; ありますが、ここから確認することができます。マニュアルを確認したり、より詳細な学習または問題の報告のために GitHub のプロジェクトページを参照してください。</target>
       </trans-unit>
       <trans-unit id="4270528545616947218" datatype="html">
-        <source>Lastly, on behalf of every contributor to this community-supported project, thank you for using Paperless-ngx!</source>
+        <source>Thank you for using Jipange!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">242</context>

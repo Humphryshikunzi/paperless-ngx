@@ -538,7 +538,7 @@
         <target state="translated">Есть &lt;em&gt;множество&lt;/em&gt; других функций и возможностей, которые мы не рассмотрели, но этого должно быть достаточно для начала. Посмотрите документацию или посетите проект на GitHub, чтобы узнать больше или сообщить о проблемах.</target>
       </trans-unit>
       <trans-unit id="4270528545616947218" datatype="html">
-        <source>Lastly, on behalf of every contributor to this community-supported project, thank you for using Paperless-ngx!</source>
+        <source>Thank you for using Jipange!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">242</context>

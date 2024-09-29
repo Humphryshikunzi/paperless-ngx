@@ -538,7 +538,7 @@
         <target state="translated">Daar is nog &lt;em&gt;baie&lt;/em&gt; meer funksies en inligting wat ons nie hier behandel het nie, maar u sal hiermee kan begin. Bekyk die dokumentasie of besoek die projek op GitHub vir meer inligting of om probleme te rapporteer.</target>
       </trans-unit>
       <trans-unit id="4270528545616947218" datatype="html">
-        <source>Lastly, on behalf of every contributor to this community-supported project, thank you for using Jipange!</source>
+        <source>Thank you for using Jipange!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">242</context>

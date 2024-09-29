@@ -267,7 +267,7 @@
                 }
               </a>
             </li>
-            @if (permissionsService.isAdmin()) {
+            <!-- @if (permissionsService.isAdmin()) {
               <li class="nav-item app-link">
                 <a class="nav-link" routerLink="logs" routerLinkActive="active" (click)="closeMenu()" ngbPopover="Logs"
                   i18n-ngbPopover [disablePopover]="!slimSidebarEnabled" placement="end" container="body"
@@ -283,12 +283,12 @@
                 triggers="mouseenter:mouseleave" popoverClass="popover-slim">
                 <i-bs class="d-flex" name="question-circle"></i-bs><span class="ms-1">&nbsp;<ng-container i18n>Documentation</ng-container></span>
               </a>
-            </li>
+            </li> -->
             <li class="nav-item" [class.visually-hidden]="slimSidebarEnabled">
               <div class="px-3 py-0 text-muted small d-flex align-items-center flex-wrap">
                 <div class="me-3">
                   <a class="text-muted text-decoration-none" target="_blank" rel="noopener noreferrer"
-                    href="https://github.com/paperless-ngx/paperless-ngx" ngbPopover="GitHub" i18n-ngbPopover
+                    href="" ngbPopover="GitHub" i18n-ngbPopover
                     [disablePopover]="!slimSidebarEnabled" placement="end" container="body"
                     triggers="mouseenter:mouseleave" popoverClass="popover-slim">
                     {{ versionString }}
@@ -317,7 +317,7 @@
                     @if (settingsService.updateCheckingIsSet) {
                       @if (appRemoteVersion.update_available) {
                         <a class="small text-decoration-none" target="_blank" rel="noopener noreferrer"
-                          href="https://github.com/paperless-ngx/paperless-ngx/releases"
+                          href=""
                           [ngbPopover]="updateAvailablePopContent" popoverClass="shadow" triggers="mouseenter:mouseleave"
                           container="body">
                           <i-bs width="1.2em" height="1.2em" name="info-circle"></i-bs>

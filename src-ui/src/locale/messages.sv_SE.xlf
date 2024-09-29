@@ -538,7 +538,7 @@
         <target state="translated">Det finns &lt;em&gt;massor&lt;/em&gt; av funktioner och information som vi inte täckte här, men detta bör ge dig hjälp på traven. Läs dokumentationen eller besök projektet på GitHub om du vill lära dig mer eller rapportera problem.</target>
       </trans-unit>
       <trans-unit id="4270528545616947218" datatype="html">
-        <source>Lastly, on behalf of every contributor to this community-supported project, thank you for using Paperless-ngx!</source>
+        <source>Thank you for using Jipange!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">242</context>

@@ -538,7 +538,7 @@
         <target state="translated">Hi ha &lt;em&gt;tones&lt;/em&gt; més funcions i informació que no hem cobert aquí, però això us hauria d'ajudar a començar. Consulteu la documentació o visiteu el projecte a GitHub per obtenir més informació o per informar de problemes.</target>
       </trans-unit>
       <trans-unit id="4270528545616947218" datatype="html">
-        <source>Lastly, on behalf of every contributor to this community-supported project, thank you for using Paperless-ngx!</source>
+        <source>Thank you for using Jipange!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">242</context>
